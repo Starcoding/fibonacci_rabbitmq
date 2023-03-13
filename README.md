@@ -1,2 +1,2 @@
 Для запуска проекта необходимо ввести следующую команду:
-'''dockec compose up -d --build'''
+```docker compose up -d --build```
